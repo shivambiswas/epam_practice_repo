@@ -8,3 +8,7 @@ You are nothing bro!
 12:17 changed.....
 2:05 changed
 04:01 changed
+<<<<<<< HEAD
+=======
+12:15AM changed puwali naki?
+>>>>>>> 1f04971 (new line added v6)
