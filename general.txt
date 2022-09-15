@@ -10,8 +10,11 @@ You are nothing bro!
 04:01 changed
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 12:15AM changed puwali naki?
 >>>>>>> 1f04971 (new line added v6)
 =======
 >>>>>>> c62ea5e (one line removed v7)
+=======
+>>>>>>> f630c44 (one line removed v7)
